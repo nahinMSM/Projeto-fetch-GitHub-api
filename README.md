@@ -4,6 +4,8 @@
 
 Este projeto é uma aplicação web que permite buscar e visualizar informações detalhadas de usuários do GitHub. Utilizando a API do GitHub, a aplicação apresenta dados como:
 
+![](layout/tela-de-capitura.png)
+
 - **Nome do usuário e bio**
 - **Número de seguidores e seguidos**
 - **Lista de repositórios com detalhes como:**
